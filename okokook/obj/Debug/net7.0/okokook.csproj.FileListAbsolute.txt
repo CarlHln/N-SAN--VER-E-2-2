@@ -1,0 +1,5 @@
+c:\Users\carl.halen\Documents\programmering\NÄSAN ÖVER E 2\okokook\obj\Debug\net7.0\okokook.csproj.AssemblyReference.cache
+c:\Users\carl.halen\Documents\programmering\NÄSAN ÖVER E 2\okokook\obj\Debug\net7.0\okokook.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carl.halen\Documents\programmering\NÄSAN ÖVER E 2\okokook\obj\Debug\net7.0\okokook.AssemblyInfoInputs.cache
+c:\Users\carl.halen\Documents\programmering\NÄSAN ÖVER E 2\okokook\obj\Debug\net7.0\okokook.AssemblyInfo.cs
+c:\Users\carl.halen\Documents\programmering\NÄSAN ÖVER E 2\okokook\obj\Debug\net7.0\okokook.csproj.CoreCompileInputs.cache
