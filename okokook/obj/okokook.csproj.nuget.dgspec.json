@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj": {}
+    "C:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj": {}
   },
   "projects": {
-    "c:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj": {
+    "C:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj",
+        "projectUniqueName": "C:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj",
         "projectName": "okokook",
-        "projectPath": "c:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj",
+        "projectPath": "C:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\okokook.csproj",
         "packagesPath": "C:\\Users\\carl.halen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\obj\\",
+        "outputPath": "C:\\Users\\carl.halen\\Documents\\programmering\\NÄSAN ÖVER E 2\\okokook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
