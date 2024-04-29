@@ -9,6 +9,7 @@ while(success == false){
     Console.WriteLine("Please write in the amount of players in each team");
     string inputNumber = Console.ReadLine();
 
+
 if(int.TryParse(inputNumber, out number) && number > 0){
     success = true;
 }
